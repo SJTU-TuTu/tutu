@@ -100,7 +100,7 @@ author:
   email            : lakersfire@sina.com
   links:
     - label: "微信"
-      icon: "fa fa-weixin"
+      icon: "fab fa-fw fa-weixin"
       url:  "https://mp.weixin.qq.com/s/gnjlpQvXXILbVb4tp2FzcA"
     - label: "QQ"
       icon: "fas fa-fw fa-link"
