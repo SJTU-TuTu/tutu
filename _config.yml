@@ -106,7 +106,7 @@ author:
       icon: "fab fa-fw fa-qq"
       url: "http://qm.qq.com/cgi-bin/qm/qr?k=i1nIv6cnJmJUf2NjoOgHf8PNdIMNkkvM&authKey=pXp4alDGlbGMxuUFC9n8b42lPGHMr%2FLgpW%2FQgQLE1sjkAARUugZI0DplUdkvUELH&noverify=0&group_code=1129425848"
     - label: "视频发布站"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fa fa-youtube-play"
       url: "https://space.bilibili.com/223755925/dynamic"  
 
 # Site Footer
