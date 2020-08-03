@@ -2,11 +2,11 @@
 main:
   - title: "关于作者"
     url: /
-  - title: "实用网址"  
-     url: /
-   - title: "软件推荐"
-     url: /
-   - title: "MATLAB"
-     url: /
-   - title: "LaTeX"
-     url: /
+  - title: "实用网址"
+    url: /
+  - title: "软件推荐"
+    url: /
+  - title: "MATLAB"
+    url: /
+  - title: "LaTeX"
+    url: /
