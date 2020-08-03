@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/tutu.png"
+logo                     : #"/assets/images/tutu.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -94,29 +94,20 @@ analytics:
 # Site Author
 author:
   name             : "图图"
-  avatar           : #"/assets/images/tutu.jpg"
+  avatar           : "/assets/images/tutu.png"
   bio              : "上海交大**研究生**"
   location         : "中国上海"
   email            : lakersfire@sina.com
   links:
-    - label: "微信"
+    - label: "微信公众号"
       icon: "fab fa-fw fa-weixin"
       url:  "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxMTg1Mzc5Ng==&action=getalbum&album_id=1393367779608281089&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgnjlpQvXXILbVb4tp2FzcA#wechat_redirect"
-    - label: "QQ"
-      icon: "fas fa-fw fa-qq"
+    - label: "交流群"
+      icon: "fab fa-fw fa-qq"
       url: "http://qm.qq.com/cgi-bin/qm/qr?k=i1nIv6cnJmJUf2NjoOgHf8PNdIMNkkvM&authKey=pXp4alDGlbGMxuUFC9n8b42lPGHMr%2FLgpW%2FQgQLE1sjkAARUugZI0DplUdkvUELH&noverify=0&group_code=1129425848"
-    - label: "Twitter"
+    - label: "B站"
       icon: "fab fa-fw fa-file-movie-o"
-      url: "https://space.bilibili.com/223755925/dynamic"
-    - label: #"Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: #"Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://space.bilibili.com/223755925/dynamic"  
 
 # Site Footer
 footer:
