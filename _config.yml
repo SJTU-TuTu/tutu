@@ -95,19 +95,22 @@ analytics:
 author:
   name             : "图图"
   avatar           : "/assets/images/tutu.png"
-  bio              : "上海交大机械工程**研究生**"
+  bio              : "SJTU-ME-**MASTER**"
   location         : "中国-上海"
   email            : lakersfire@sina.com
   links:
-    - label: "微信公众号"
+    - label: "公众号"
       icon: "fab fa-fw fa-weixin"
       url:  "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxMTg1Mzc5Ng==&action=getalbum&album_id=1393367779608281089&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgnjlpQvXXILbVb4tp2FzcA#wechat_redirect"
-    - label: "交流企鹅群"
+    - label: "企鹅群"
       icon: "fab fa-fw fa-qq"
       url: "http://qm.qq.com/cgi-bin/qm/qr?k=i1nIv6cnJmJUf2NjoOgHf8PNdIMNkkvM&authKey=pXp4alDGlbGMxuUFC9n8b42lPGHMr%2FLgpW%2FQgQLE1sjkAARUugZI0DplUdkvUELH&noverify=0&group_code=1129425848"
-    - label: "视频发布站"
+    - label: "视频站"
       icon: "fab fa-fw fa-youtube"
       url: "https://space.bilibili.com/223755925/dynamic"  
+    - label: "GITHUB"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://github.com/SJTU-TuTu"
 
 # Site Footer
 footer:
