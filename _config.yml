@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # false (default)
 search_full_content      : true #false (default)
-search_provider          : algolia #, google
+search_provider          : lunr
 algolia:
   application_id         : https://www.dogedoge.com/
   index_name             : # YOUR_INDEX_NAME
@@ -123,7 +123,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:"lakersfire@sina.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
