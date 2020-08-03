@@ -1,7 +1,7 @@
 ---
 layout: categories
-title: "test"
-permalink: /test/
+title: "HIGH爆网址"
+permalink: /HIGH爆网址/
 author_profile: false
 ---
 
