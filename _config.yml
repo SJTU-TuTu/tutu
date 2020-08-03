@@ -60,7 +60,7 @@ algolia:
   search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
   powered_by             : false
 google:
-  search_engine_id       : https://www.dogedoge.com/
+  search_engine_id       : 
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
@@ -100,7 +100,7 @@ author:
   email            : lakersfire@sina.com
   links:
     - label: "微信"
-      icon: "fas fa-fw fa-weixin-square"
+      icon: "fa fa-weixin"
       url:  "https://mp.weixin.qq.com/s/gnjlpQvXXILbVb4tp2FzcA"
     - label: "QQ"
       icon: "fas fa-fw fa-link"
