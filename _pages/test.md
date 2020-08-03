@@ -6,7 +6,11 @@ author_profile: false
 ---
 
 
-| ![x](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3364124465,894725222&fm=15&gp=0.jpg)|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+---
+多吉搜索: [![](https://goobe.io/zh-cn/templates/img/logo-blue.png?v3.1)](https://goobe.io/)
+title: [![](https://goobe.io/zh-cn/templates/img/logo-blue.png?v3.1)](https://goobe.io/)
+permalink: /test/
+author_profile: false
+---
+
+
