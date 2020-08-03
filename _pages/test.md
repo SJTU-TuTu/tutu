@@ -4,6 +4,10 @@ title: "test"
 permalink: /test/
 author_profile: false
 ---
+
+---|---
+row 1 col 1 | row 1 col 2
+row 2 col 1 | row 2 col 2
 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 # 示例文章：Google 搜索的即时自动补全功能究竟是如何“工作”的？
@@ -13,6 +17,7 @@ nnh
 ## 使用自动补全
 
 Google 搜索的自动补全功能可以在 Google 搜索应用的大多数位置使用，包括 [Google](https://www.google.com/) 主页、适用于 IOS 和 Android 的 Google 应用，我们只需要在 Google 搜索框上开始键入关键字，就可以看到联想词了。
+
 
 > ![](https://imgkr.cn-bj.ufileos.com/17ed83bf-e028-4db2-9503-5a3b4e64deee.gif)
 
