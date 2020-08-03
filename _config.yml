@@ -99,10 +99,10 @@ author:
   location         : "中国上海"
   email            : lakersfire@sina.com
   links:
-    - label: "weixin"
-      icon: "fa fa-weixin"
+    - label: "微信"
+      icon: "fa fa-fw fa-weixin-square"
       url:  "https://mp.weixin.qq.com/s/gnjlpQvXXILbVb4tp2FzcA"
-    - label: "Website"
+    - label: "QQ"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
     - label: "Twitter"
