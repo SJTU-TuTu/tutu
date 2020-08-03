@@ -1,12 +1,12 @@
 # main links
-main:
-  - title: "关于作者"
-    url: /
-  - title: "实用网址"
-    url: /
-  - title: "软件推荐"
-    url: /
+main:  
   - title: "MATLAB"
     url: /
   - title: "LaTeX"
+    url: /
+  - title: "图图导航"
+    url: /
+  - title: "图图软件"
+    url: /  
+  - title: "关于图图"
     url: /
