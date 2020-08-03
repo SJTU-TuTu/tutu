@@ -99,9 +99,9 @@ author:
   location         : "中国上海"
   email            : lakersfire@sina.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url:  #"mailto:lakersfire@sina.com"
+    - label: "weixin"
+      icon: "fa fa-weixin"
+      url:  "https://mp.weixin.qq.com/s/gnjlpQvXXILbVb4tp2FzcA"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
