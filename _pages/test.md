@@ -15,14 +15,13 @@ author_profile: false
 <script>
 	if(!window.name){
 	var x = prompt("关注微信公众号“图通道”回复“密码”","");
-	if (x!=046046){
-	    x="密码错误";
-	    document.getElementById("demo").innerHTML=x;
+	if (x!="046046"){
 	    alert("密码错误！")
+		x="密码错误";  	    
 	    window.close()
-	}
-	
+	}else{alert("密码正确！")}	
 }else{
+		alert("密码11！")
         alert('刷新操作 name值：'+ window.name);
 }
 	
