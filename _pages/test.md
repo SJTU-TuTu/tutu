@@ -11,33 +11,17 @@ author_profile: false
 <title>图通道</title>
 </head>
 <body>
-
-<script type="text/javascript">
-	
-     
-   if(document.cookie.indexOf("user=new")==-1){
-        var x = prompt("关注微信公众号“图通道”回复“密码”","");
+<script type="text/javascript">     
+if(document.cookie.indexOf("user=new")==-1){
+var x = prompt("关注微信公众号“图通道”回复“密码”","");
 while (x!="046046"){
 alert("密码错误呀！")	    
 window.close()
 x = prompt("关注微信公众号“图通道”回复“密码”","");}
         var t=new Date(new Date().getTime()+1000*60*60*24*30);
         document.cookie="user=new; expires="+t.toGMTString();
-    }else{
-        alert("再次打开！");
-    }
-
-
-	    
-      
- 
-	    
-	    
-	    
-	    
-      
-   </script>
-
+    }else{ }
+</script>
 </body>
 </html>
   
