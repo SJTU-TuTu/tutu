@@ -5,7 +5,7 @@ main:
   - title: "标签"
     url: /tags/
   - title: "年度"
-    url: /year/
+    url: /posts/
   - title: "网址导航"
     url: /test/
   - title: "软件推荐"
