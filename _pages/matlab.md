@@ -1,5 +1,5 @@
 ---
-title:MATLAB合辑
+title: MATLAB合辑
 permalink: /matlab/
 author_profile: false
 toc: true
