@@ -9,22 +9,18 @@ author_profile: false
 <html>
 <head>
 <meta charset="utf-8">
-<title>菜鸟教程(runoob.com)</title>
+<title>图通道</title>
 </head>
 <body>
-
-<p>点击按钮查看输入的对话框。</p>
-window.onload()
-<p id="demo"></p>
+	
 <script>
-window.onload()=function myFunction(){
-	var x;
-	var person=prompt("请输入你的名字","Harry Potter");
-	if (person!=null && person!=""){
-	    x="你好 " + person + "! 今天感觉如何?";
+	var x = prompt("关注微信公众号“图通道”回复“密码”","");
+	if (x!=046046){
+	    x="密码错误";
 	    document.getElementById("demo").innerHTML=x;
+		alert("密码错误！")
+		window.close()
 	}
-}
 </script>
 
 </body>
