@@ -292,7 +292,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      class: wide
   # _recipes
   - scope:
       path: ""
