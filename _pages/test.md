@@ -13,7 +13,9 @@ author_profile: false
 <body>
 
 <script>
-	window.onload=function(){
+	if(!window.name){
+       
+        window.onload=function(){
 	var x = prompt("关注微信公众号“图通道”回复“密码”","");
 	if (x!=046046){
 	    x="密码错误";
@@ -22,6 +24,10 @@ author_profile: false
 		window.close()
 	}
 	}
+}else{
+        alert('刷新操作 name值：'+ window.name);
+}
+	
 </script>
 
 </body>
