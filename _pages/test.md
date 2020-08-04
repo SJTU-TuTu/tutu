@@ -3,11 +3,9 @@ layout: single
 title: "HIGH爆网址"
 permalink: /test/
 author_profile: false
-toc:true
-toc_sticky: true
+toc: true
 toc_label: "网址"
 toc_icon: "heart"
-
 ---
 
 
