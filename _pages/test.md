@@ -5,14 +5,12 @@ permalink: /test/
 author_profile: false
 ---
 
-<label for="userPassword">Password: </label>
-<input id="userPassword" type="password" size="12">
-<button id="selectAll">Select All</button>
-
-
-document.getElementById("selectAll").onclick = function() {
-  document.getElementById("userPassword").select();
-}
+<SCRIPT LANGUAGE="javascript"> 
+<!-- 
+window.open ('page.html', 'newwindow', 'height=100, width=400, top=0,left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no,status=no') 
+//写成一行 
+--> 
+</SCRIPT>
   
 # 搜索引擎
 
