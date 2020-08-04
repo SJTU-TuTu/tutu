@@ -5,11 +5,11 @@ main:
   - title: "MATLAB"
     url: /matlab/
   - title: "LaTeX"
-    url: /
+    url: /latex/
   - title: "导航"
     url: /test/
   - title: "软件"
-    url: /  
+    url: /software/  
   - title: "关于"
     url: /
     
