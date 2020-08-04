@@ -1,6 +1,6 @@
 ---
-title: MATLAB合辑
-permalink: /matlab/
+title: 不同标签的文章
+permalink: /tags/
 author_profile: false
 toc: true
 sidebar:
