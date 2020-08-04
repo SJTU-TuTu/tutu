@@ -18,7 +18,7 @@ author_profile: false
 	while (x!="046046"){
 	    alert("密码错误呀！")	    
 	    window.close()
-	    x = prompt("关注微信公众号“图通道”回复“密码”","");
+	    x = prompt("关注微信公众号“图通道”回复“密码”","");}
       
    </script>
 
