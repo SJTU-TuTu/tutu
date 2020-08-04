@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "HIGH爆网址"
 permalink: /test/
 author_profile: false
@@ -8,7 +9,6 @@ toc_label: "网址"
 toc_icon: "heart"
 toc_sticky: true
 ---
-
 
 
 <html>
