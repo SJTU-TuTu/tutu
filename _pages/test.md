@@ -5,21 +5,22 @@ permalink: /test/
 author_profile: false
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>图通道</title>
 </head>
 <body>
-	
+
 <script>
+	window.onload=function(){
 	var x = prompt("关注微信公众号“图通道”回复“密码”","");
 	if (x!=046046){
 	    x="密码错误";
 	    document.getElementById("demo").innerHTML=x;
 		alert("密码错误！")
 		window.close()
+	}
 	}
 </script>
 
