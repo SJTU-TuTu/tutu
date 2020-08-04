@@ -1,13 +1,11 @@
 ---
-toc: true
 layout: categories
 title: "HIGH爆网址"
 permalink: /test/
 author_profile: false
-toc_label: "目录"
-toc_icon: "cog"
-toc_sticky: true
 ---
+
+
 
 <html>
 <head>
@@ -60,4 +58,8 @@ x = prompt("关注微信公众号“图通道”回复“密码”","");}
 
 [`更多`](http://mp.weixin.qq.com/mp/homepage?__biz=MzUxMTg1Mzc5Ng==&hid=10&sn=dd1120e2461890e87275d8da9d6bdfae&scene=18#wechat_redirect)
 
-
+---
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+---
