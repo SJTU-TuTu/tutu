@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "HIGH爆网址"
 permalink: /test/
 author_profile: false
