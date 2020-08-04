@@ -2,6 +2,7 @@
 permalink: /matlab/
 author_profile: false
 toc: true
+---
 toc_label: "MATLAB专栏"
 toc_icon: "heart"
 sidebar-sample:
