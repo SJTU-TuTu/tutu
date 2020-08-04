@@ -14,7 +14,7 @@ author_profile: false
 <body>
 
 <p>点击按钮查看输入的对话框。</p>
-<button onclick="myFunction()">点我</button>
+window.onload(){this.myfunction()} 
 <p id="demo"></p>
 <script>
 function myFunction(){
