@@ -5,12 +5,30 @@ permalink: /test/
 author_profile: false
 ---
 
-<SCRIPT LANGUAGE="javascript"> 
-<!-- 
-window.open ('page.html', 'newwindow', 'height=100, width=400, top=0,left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no,status=no') 
-//写成一行 
---> 
-</SCRIPT>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+
+<p>点击按钮查看输入的对话框。</p>
+<button onclick="myFunction()">点我</button>
+<p id="demo"></p>
+<script>
+function myFunction(){
+	var x;
+	var person=prompt("请输入你的名字","Harry Potter");
+	if (person!=null && person!=""){
+	    x="你好 " + person + "! 今天感觉如何?";
+	    document.getElementById("demo").innerHTML=x;
+	}
+}
+</script>
+
+</body>
+</html>
   
 # 搜索引擎
 
