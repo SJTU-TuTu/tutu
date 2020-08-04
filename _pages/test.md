@@ -1,9 +1,9 @@
 ---
+toc: true
 layout: categories
 title: "HIGH爆网址"
 permalink: /test/
 author_profile: false
-toc: true
 toc_label: "目录"
 toc_icon: "cog"
 toc_sticky: true
