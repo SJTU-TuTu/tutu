@@ -17,10 +17,10 @@ author_profile: false
        var newVisitor = isNewVisitor();// 如果是新访客
        if(newVisitor === true)
        {
-       if(!window.name){
+       
 	var x = prompt("关注微信公众号“图通道”回复“密码”","");
 	while (x!="046046"){
-	    alert("密码错误！")	    
+	    alert("密码错误呀！")	    
 	    window.close()
 	    x = prompt("关注微信公众号“图通道”回复“密码”","");
 
