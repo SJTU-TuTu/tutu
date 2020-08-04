@@ -2,7 +2,7 @@
 title: 不同标签的文章
 permalink: /tags/
 author_profile: false
-layout:tags
+layout:tag
 toc: true
 sidebar:
   title: "导航"
