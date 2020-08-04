@@ -35,7 +35,7 @@ x = prompt("关注微信公众号“图通道”回复“密码”","");}
 ## *资源下载网站*
 
 |[软件下载](http://a-1.vip/exe/) |[插件下载](https://crxdl.com/)|[脚本下载](https://greasyfork.org/zh-CN)|[吾爱破解](https://www.52pojie.cn/)|
-|---|--- | --- |---|
+|---|---|---|---|
 |[美图下载](https://www.logosc.cn/so/)|[模板下载](http://ppt.sotary.com/web/wxapp/index.html)|[破解软件](http://www.dugubest.com/)|[破解软件](https://www.mpyit.com/category/pcsoft/network)|
 |[电子书ZLibrary](https://1lib.net/)|[电子书Epubee](http://cn.epubee.com/books/)|[电子书Jiumodiary](https://www.jiumodiary.com/)|[电子书Kindle](http://www.seo630.com/index.html)|
 |[音乐下载](https://yinyue.qugeek.com/app/player)|[冰点文库](http://www.18wk.com/1234866.aspx)|[图标集](https://www.thinkcmf.com/font/font_awesome/icons.html)|
