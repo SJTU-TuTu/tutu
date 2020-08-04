@@ -14,10 +14,10 @@ author_profile: false
 <body>
 
 <p>点击按钮查看输入的对话框。</p>
-window.onload(){this.myfunction()} 
+window.onload()
 <p id="demo"></p>
 <script>
-function myFunction(){
+window.onload()=function myFunction(){
 	var x;
 	var person=prompt("请输入你的名字","Harry Potter");
 	if (person!=null && person!=""){
