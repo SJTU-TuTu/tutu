@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "推文"
+  - title: "文章"
+    url: /categories/
+  - title: "标签"
     url: /tags/
-  - title: "MATLAB"
-    url: /matlab/
-  - title: "LaTeX"
-    url: /latex/
-  - title: "导航"
+  - title: "年度"
+    url: /year/
+  - title: "网址导航"
     url: /test/
-  - title: "软件"
+  - title: "软件推荐"
     url: /software/  
-  - title: "关于"
+  - title: "关于作者"
     url: /
     
     
