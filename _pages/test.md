@@ -5,9 +5,14 @@ permalink: /test/
 author_profile: false
 ---
 
-<head><script language="JavaScript"><!--var password="";password=prompt('请输入密码 (本网站需输入密码才可进入):','');if (password != 'mima')   {alert("密码不正确,无法进入本站!!");    window.opener=null; window.close();}  // 密码不正确就关闭//--></script></head>
-<body><p style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！</body>
+<label for="userPassword">Password: </label>
+<input id="userPassword" type="password" size="12">
+<button id="selectAll">Select All</button>
 
+
+document.getElementById("selectAll").onclick = function() {
+  document.getElementById("userPassword").select();
+}
   
 # 搜索引擎
 
