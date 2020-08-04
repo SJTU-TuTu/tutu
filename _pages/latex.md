@@ -1,5 +1,5 @@
 ---
-title: LaTeX合辑
+title: 不同年度发布的文章
 permalink: /year/
 author_profile: false
 toc: true
