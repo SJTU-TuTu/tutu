@@ -1,6 +1,6 @@
 ---
 title: LaTeX合辑
-permalink: /latex/
+permalink: /year/
 author_profile: false
 toc: true
 sidebar:
