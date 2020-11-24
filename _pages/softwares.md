@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "软件合辑"
-permalink: /software/
+permalink: /softwares/
 author_profile: false
 toc: true
 toc_label: "软件"
