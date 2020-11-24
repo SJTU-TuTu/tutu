@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "HIGH爆网址"
-permalink: /test/
+permalink: /websites/
 author_profile: false
 toc: true
 toc_label: "网址"
