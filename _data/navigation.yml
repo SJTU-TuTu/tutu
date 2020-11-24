@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "文章"
-    url: /categories/
-  - title: "标签"
-    url: /tags/
-  - title: "年度"
-    url: /posts/
+  - title: "近期文章"
+    url: /recent/
+  - title: "标签分类"
+    url: /bytag/
+  - title: "年度汇总"
+    url: /byyear/
   - title: "网址导航"
-    url: /test/
+    url: /websites/
   - title: "软件推荐"
-    url: /software/  
+    url: /softwares/  
   - title: "关于作者"
     url: /
     
