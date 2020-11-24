@@ -1,7 +1,7 @@
 ---
 layout: tags
-title: 不同标签的文章
-permalink: /tags/
+title: 按关键词分类
+permalink: /bytag/
 author_profile: false
 toc: true
 sidebar:
