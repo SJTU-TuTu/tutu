@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 不同年度发布的文章
-permalink: /posts/
+permalink: /byyear/
 author_profile: false
 toc: true
 sidebar:
