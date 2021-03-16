@@ -1,1 +1,3 @@
-## 请关注我的`微信号`17521106755
+## *CONTACT ME*
+## `WeChat`17521106755
+## `E-Mail`xuweiyunmachinery@sjtu.edu.cn
