@@ -1,12 +1,12 @@
 ---
 layout: tags
-title: 按关键词分类
+title: By Keywords
 permalink: /bytag/
 author_profile: false
 toc: true
 sidebar:
-  title: "导航"
+  title: "Navigate"
   nav: sidebar-sample
 ---
 
-## *暂无内容
+## *Search this site by keywords
