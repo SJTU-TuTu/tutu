@@ -6,6 +6,6 @@ author_profile: false
 toc: true
 sidebar:
   title: "Navigate"
-  nav: sidebar-sample
+  nav: sidebar-year
 ---
 ## *Enjoy life
