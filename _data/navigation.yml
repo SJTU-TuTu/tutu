@@ -1,16 +1,12 @@
 # main links
 main:
-  - title: "近期文章"
+  - title: "Recent Blogs"
     url: /recent/
-  - title: "标签分类"
+  - title: "Classification"
     url: /bytag/
-  - title: "年度汇总"
+  - title: "Annual Events"
     url: /byyear/
-  - title: "网址导航"
-    url: /websites/
-  - title: "软件推荐"
-    url: /softwares/  
-  - title: "关于作者"
+  - title: "About Me"
     url: /
     
     
