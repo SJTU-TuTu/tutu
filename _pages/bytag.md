@@ -6,7 +6,7 @@ author_profile: false
 toc: true
 sidebar:
   title: "Navigate"
-  nav: sidebar-sample
+  nav: sidebar-tag
 ---
 
 ## *Search this site by keywords
