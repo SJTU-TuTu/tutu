@@ -2,5 +2,5 @@
 title: ""
 permalink: /recent/
 layout: categories
-author_profile: true
+author_profile: false
 ---
