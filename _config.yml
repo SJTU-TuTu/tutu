@@ -316,3 +316,5 @@ defaults:
       layout: single
       author_profile: false
       share: false
+
+theme: jekyll-theme-time-machine
