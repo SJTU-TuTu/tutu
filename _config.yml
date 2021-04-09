@@ -101,11 +101,11 @@ author:
   links:
     - label: "公众号"
       icon: "fab fa-fw fa-weixin"
-      url:  "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxMTg1Mzc5Ng==&action=getalbum&album_id=1393367779608281089&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgnjlpQvXXILbVb4tp2FzcA#wechat_redirect"
+      url:  "https://mp.weixin.qq.com/mp/homepage?__biz=MzUxMTg1Mzc5Ng==&hid=18&sn=f3ea0523a047a3c4d106a9ff393f1866&scene=18&uin=&key=&devicetype=Windows+10+x64&version=63020184&lang=zh_CN&ascene=7&fontgear=2"
     - label: "企鹅群"
       icon: "fab fa-fw fa-qq"
       url: "http://qm.qq.com/cgi-bin/qm/qr?k=i1nIv6cnJmJUf2NjoOgHf8PNdIMNkkvM&authKey=pXp4alDGlbGMxuUFC9n8b42lPGHMr%2FLgpW%2FQgQLE1sjkAARUugZI0DplUdkvUELH&noverify=0&group_code=1129425848"
-    - label: "视频站"
+    - label: "B站"
       icon: "fab fa-fw fa-youtube"
       url: "https://space.bilibili.com/223755925/dynamic"  
     - label: "GITHUB"
